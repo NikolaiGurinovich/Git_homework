@@ -3,7 +3,7 @@ public class Main {
         System.out.println("new branch commit");
         System.out.println("wtf");
         System.out.println("");
-
+        System.out.println("wtf");
 
     }
 }
